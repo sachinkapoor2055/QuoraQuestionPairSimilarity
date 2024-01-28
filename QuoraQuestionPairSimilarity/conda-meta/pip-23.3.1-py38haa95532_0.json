@@ -1023,7 +1023,6 @@
   ],
   "fn": "pip-23.3.1-py38haa95532_0.conda",
   "legacy_bz2_md5": "58bacbd8296323b8f3ac8d87fc361d52",
-  "legacy_bz2_size": 2978132,
   "license": "MIT",
   "license_family": "MIT",
   "link": {
@@ -8101,7 +8100,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "pip",
   "sha256": "ef29f1da90961b5e4aa67af7396d651cf5d203fa0d105edad8def29bfedf1b25",
   "size": 2964554,
   "subdir": "win-64",

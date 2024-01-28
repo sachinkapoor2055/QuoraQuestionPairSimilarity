@@ -1,6 +1,20 @@
-numpy
-pandas
-matplotlib
-seaborn
-plotly
+bs4                # Beautiful Soup for web scraping
+deep-translator    # For translation using various APIs
+distance           # Levenshtein distance calculation
+fuzzywuzzy         # Fuzzy string matching
+gensim             # For Word2Vec models
+googletrans        # Google Translate API
+langdetect         # Language detection library
+nltk               # Natural Language Toolkit
+numpy              # Numerical computing with arrays
+pandas             # Data manipulation and analysis
+plotly             # Interactive plotting
+seaborn            # Data visualization based on Matplotlib
+scikit-learn       # Machine learning library
+subprocess32       # Subprocess module backport for Python 3.2 and 3.3
+wordcloud          # Word cloud generator
+xgboost            # XGBoost for gradient boosting
+langid             # standalone Language Identification (LangID) tool
+contractions       # Fixes contractions such as `you're` to you `are`
+translate          # powerful command line translator with google translate
 -e .
